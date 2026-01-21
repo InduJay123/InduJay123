@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InduJay123" alt="indujay123" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-- 🧑‍🎓 I’m an Undergraduate at **RUHUNA**
+- 🧑‍🎓 I’m an Undergraduate at **University of RUHUNA**
 - 🔭 I’m currently working on [Furniture Web](https://github.com/InduJay123/Furniture_Web.git)
 
 - 🌱 I’m currently learning **DJANGO, DevOps**
