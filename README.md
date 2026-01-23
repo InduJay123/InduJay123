@@ -60,7 +60,7 @@
 | Cloud & DevOps   | <img src="https://skillicons.dev/icons?i=azure,docker,linux"/> |
 | Tools            | <img src="https://skillicons.dev/icons?i=git,github,postman,insomnia"/> |
 | Design           | <img src="https://skillicons.dev/icons?i=photoshop,illustrator"/> |
-| IDEs             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea"/> |
+| IDEs             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea"/> |
 
 </div>
 
