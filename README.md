@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with [AI PDF Chat](https://github.com/InduJay123/ai_pdf.git)
 - 💬 Ask me about **React**
 - 📫 How to reach me **indunijayamanna174@gmail.com**
-- ⚡ Fun fact **Call me as Jay**
+- ⚡ Fun fact **Jay**
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 
