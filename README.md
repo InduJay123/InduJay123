@@ -83,8 +83,16 @@
     </tr>
   </table>
   <!-- Streak & Stats (BOTTOM) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InduJay123&theme=tokyonight" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=InduJay123&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <table>
+    <tr>
+       <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=InduJay123&theme=tokyonight" height="180" alt="GitHub Streak"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=InduJay123&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+      </td>   
+    </tr>
+  </table>
 </div>
 </div>
 
