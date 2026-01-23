@@ -1,17 +1,13 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  I'm Induni Jayamanna</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=InduJay123&label=Profile%20views&color=0e75b6&style=flat" alt="indujay123" /> </p>
-
-<img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+<h3 align="center">A passionate software developer from Sri Lanka <img src="https://komarev.com/ghpvc/?username=InduJay123&label=Profile%20views&color=0e75b6&style=flat" alt="indujay123" /></h3>
+<br/>
+<img align="right" alt="Coding" width="430" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🧑‍🎓 I’m an Undergraduate at **University of RUHUNA**
 - 🔭 I’m currently working on [Furniture Web](https://github.com/InduJay123/Furniture_Web.git)
 - 🌱 I’m currently learning **DJANGO, DevOps**
 - 👯 I’m looking to collaborate on [Smart Agri Market System](https://github.com/InduJay123/SmartAgriMarket.git)
-- 🤝 I’m looking for help with [AI PDF Chat](https://github.com/InduJay123/ai_pdf.git)
 - 💬 Ask me about **React**
 - 📫 How to reach me **indunijayamanna174@gmail.com**
 - ⚡ Fun fact **Jay**
