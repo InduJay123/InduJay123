@@ -7,6 +7,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InduJay123" alt="indujay123" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
+<table><tr><td width="200px">
+Profile Views:<br/>
+<img src="https://komarev.com/ghpvc/?username=InduJay123&label=Profile%20views&color=blue&style=flat" alt="InduJay123" /> </td>
+<td>Sri Lanka's Most Active GitHub Users Rank:<br/>
+
+<img src="https://user-badge.committers.top/sri_lanka/Erangamadhushan.svg"/></td>
+<td>Total time coded since Mar 22, 2025 :
+<img src="https://wakatime.com/badge/user/11c2a7f7-000a-495d-81ba-833ef045dccf.svg"/></td>
+
+
+</td></tr></table>
+
 - 🧑‍🎓 I’m an Undergraduate at **University of RUHUNA**
 - 🔭 I’m currently working on [Furniture Web](https://github.com/InduJay123/Furniture_Web.git)
 
