@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="430" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🧑‍🎓 I’m an Undergraduate at **University of RUHUNA**
-- 🔭 I’m currently working on [Furniture Web](https://github.com/InduJay123/Furniture_Web.git)
+- 🔭 I’m currently working on [MediFinder](https://github.com/InduJay123/MediFinder_UI.git)
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on [Smart Agri Market System](https://github.com/InduJay123/SmartAgriMarket.git)
 - 💬 Ask me about **React, DJANGO**
