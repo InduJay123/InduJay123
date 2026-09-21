@@ -58,7 +58,7 @@
 | Back End         | <img src="https://skillicons.dev/icons?i=django,nodejs,spring"/> |
 | Databases        | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase"/> |
 | Cloud & DevOps   | <img src="https://skillicons.dev/icons?i=azure,docker,linux"/> |
-| Tools            | <img src="https://skillicons.dev/icons?i=git,github,postman,insomnia,n8n/EA4B71"/> |
+| Tools            | <img src="https://skillicons.dev/icons?i=git,github,postman,insomnia"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/> | |
 | Design           | <img src="https://skillicons.dev/icons?i=photoshop,illustrator"/> |
 | IDEs             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea"/> |
 
