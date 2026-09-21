@@ -5,10 +5,10 @@
 <img align="right" alt="Coding" width="430" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🧑‍🎓 I’m an Undergraduate at **University of RUHUNA**
-- 🔭 I’m currently working on [MediFinder](https://github.com/InduJay123/MediFinder_UI.git)
-- 🌱 I’m currently learning **DevOps**
-- 👯 I’m looking to collaborate on [Smart Agri Market System](https://github.com/InduJay123/SmartAgriMarket.git)
-- 💬 Ask me about **React, DJANGO**
+- 🔭 I’m currently working as an AI Engineer Intern at ABSOL X
+- 🌱 I’m currently learning **Generative AI, RAG & AI Agent**
+- 👯 I’m looking to collaborate on **AI & ML Projects**
+- 💬 Ask me about **React, DJANGO, RAG & n8n**
 - 📫 How to reach me **indunijayamanna174@gmail.com**
 - ⚡ Fun fact **Jay**
 
